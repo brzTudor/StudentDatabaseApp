@@ -1,3 +1,12 @@
+/*
+    Ask the user how many students will enroll
+    Students should have a unique 5 digit ID, first number is their year
+    Students can enroll in : Math, History, English, Chemistry, Programming
+    Each course costs 600 RON
+    Student can check his balance and pay
+ */
+
+
 import java.util.LinkedList;
 import java.util.List;
 import java.util.Scanner;
